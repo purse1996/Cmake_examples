@@ -1,0 +1,6 @@
+/home/shuaibin/cfile/Demo4/CMakeFiles/edit_cache.dir
+/home/shuaibin/cfile/Demo4/CMakeFiles/rebuild_cache.dir
+/home/shuaibin/cfile/Demo4/CMakeFiles/Demo.dir
+/home/shuaibin/cfile/Demo4/math/CMakeFiles/edit_cache.dir
+/home/shuaibin/cfile/Demo4/math/CMakeFiles/rebuild_cache.dir
+/home/shuaibin/cfile/Demo4/math/CMakeFiles/MathFunctions.dir

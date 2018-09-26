@@ -1,0 +1,3 @@
+/home/shuaibin/cfile/CMakeFiles/edit_cache.dir
+/home/shuaibin/cfile/CMakeFiles/rebuild_cache.dir
+/home/shuaibin/cfile/CMakeFiles/Demo.dir

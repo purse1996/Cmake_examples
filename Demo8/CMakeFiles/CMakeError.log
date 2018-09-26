@@ -1,0 +1,25 @@
+Determining if the function pow exists failed with the following output:
+Change Dir: /home/shuaibin/cfile/Demo8/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9e999/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9e999.dir/build.make CMakeFiles/cmTC_9e999.dir/build
+make[1]: Entering directory '/home/shuaibin/cfile/Demo8/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9e999.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pow   -o CMakeFiles/cmTC_9e999.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function ‘pow’
+/usr/share/cmake-3.5/Modules/CheckFunctionExists.c:6:6: note: in expansion of macro ‘CHECK_FUNCTION_EXISTS’
+ char CHECK_FUNCTION_EXISTS();
+      ^
+Linking C executable cmTC_9e999
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9e999.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pow    CMakeFiles/cmTC_9e999.dir/CheckFunctionExists.c.o  -o cmTC_9e999 -rdynamic 
+CMakeFiles/cmTC_9e999.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x15): undefined reference to `pow'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_9e999.dir/build.make:97: recipe for target 'cmTC_9e999' failed
+make[1]: *** [cmTC_9e999] Error 1
+make[1]: Leaving directory '/home/shuaibin/cfile/Demo8/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9e999/fast' failed
+make: *** [cmTC_9e999/fast] Error 2
+
+

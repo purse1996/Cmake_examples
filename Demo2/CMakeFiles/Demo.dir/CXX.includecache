@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shuaibin/cfile/Demo2/MathFunctions.cc
+
+/home/shuaibin/cfile/Demo2/main.cc
+stdio.h
+-
+stdlib.h
+-
+MathFunctions.h
+/home/shuaibin/cfile/Demo2/MathFunctions.h
+

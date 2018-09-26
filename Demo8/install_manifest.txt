@@ -1,0 +1,4 @@
+/home/shuaibin/cfile/Demo8/_CPack_Packages/Linux/TZ/Demo6-1.0.1-Linux/bin/Demo
+/home/shuaibin/cfile/Demo8/_CPack_Packages/Linux/TZ/Demo6-1.0.1-Linux/include/config.h
+/home/shuaibin/cfile/Demo8/_CPack_Packages/Linux/TZ/Demo6-1.0.1-Linux/bin/libMathFunctions.a
+/home/shuaibin/cfile/Demo8/_CPack_Packages/Linux/TZ/Demo6-1.0.1-Linux/include/MathFunctions.h
